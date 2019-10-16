@@ -10,7 +10,28 @@
 }
 
 span {
-  float: left;
+  display: block;
+  text-align: center;
   font-size: 25px;
   font-weight: bold;
+}
+
+img {
+  max-width: 350px;
+  height: 252px;
+  float: center;
+}
+
+body {
+  display: block;
+  margin: auto;
+  max-width: 1140px;
+}
+
+.sidebar {
+  display: block;
+  margin: auto;
+  width: 20%;
+  float: inherit;
+  background-color: yellow;
 }
