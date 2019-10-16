@@ -33,5 +33,17 @@ body {
   margin: auto;
   width: 20%;
   float: inherit;
-  background-color: yellow;
+  background-color: #ffccff;
+}
+
+.before {
+  background-color: #f2d9e6;
+}
+
+.during {
+  background-color: #ccfff2;
+}
+
+.after {
+  background-color: #ccccff;
 }
